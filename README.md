@@ -4,3 +4,4 @@
 - <img src = "https://cdn.discordapp.com/emojis/759841905839964170.gif?v=1" height = "25"> i'm currently very interested in ui/ux design and front-end development!
 - <img src = "https://cdn.discordapp.com/emojis/819197815821434941.png?v=1" height = "25"> if you'd like to collaborate on anything or talk, **feel free to reach out to me!**
 - <img src = "https://cdn.discordapp.com/emojis/663378874117128192.gif?v=1" height = "25"> you can find me at **hchristy1234@gmail.com** or on discord at **chrisT#8032**
+- enjoy looking through my currently extremely sad github :) 
